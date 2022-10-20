@@ -1,0 +1,21 @@
+{
+    "projectId": "63500c65be7c6bcc9d17",
+    "projectName": "appwrite_sendgrid",
+    "functions": [
+        {
+            "$id": "635080debf58955b8cd5",
+            "name": "appwrite_sendgrid",
+            "runtime": "dart-2.17",
+            "path": "functions/appwrite_sendgrid",
+            "entrypoint": "lib/main.dart",
+            "ignore": [
+                ".packages",
+                ".dart_tool"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
